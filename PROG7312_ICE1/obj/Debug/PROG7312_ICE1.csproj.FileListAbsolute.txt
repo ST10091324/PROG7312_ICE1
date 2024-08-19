@@ -1,0 +1,7 @@
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.exe.config
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.exe
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.pdb
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.AssemblyReference.cache
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.CoreCompileInputs.cache
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.exe
+C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.pdb
