@@ -5,3 +5,17 @@ C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PRO
 C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.CoreCompileInputs.cache
 C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.exe
 C:\Users\zozgg\Documents\Visual Studio 2022\PracticeWork\PROG7312_ICE1_-main\PROG7312_ICE1_-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.pdb
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.exe.config
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.exe
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.pdb
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.AssemblyReference.cache
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.CoreCompileInputs.cache
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.exe
+C:\Users\zozgg\Downloads\PROG7312_ICE1_GROUP\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.pdb
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.AssemblyReference.cache
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.csproj.CoreCompileInputs.cache
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.exe
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\obj\Debug\PROG7312_ICE1.pdb
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.exe.config
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.exe
+C:\Users\Lesego\Downloads\Copy_Of_PROG7312_ICE1-main\Copy_Of_PROG7312_ICE1-main\PROG7312_ICE1\bin\Debug\PROG7312_ICE1.pdb
